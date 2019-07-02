@@ -1,0 +1,1 @@
+A example to design in "mobile first design" use @media and width
